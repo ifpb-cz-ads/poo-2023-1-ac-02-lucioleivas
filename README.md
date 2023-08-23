@@ -12,11 +12,11 @@ BM_exercicio02.java
 
 QUESTÃO 4
 
-Ao tentar executar o programa sem o MyProgram.class gerou um erro informando que não foi possível localizar a classe principal (ClassNotFoundExeception).
+Ao tentar executar o programa sem o BM_exercicio02.class gerou um erro informando que não foi possível localizar a classe principal (ClassNotFoundExeception).
 
 QUESTÃO 5
 
-Quando mudamos o nome do método de 'main' para 'start', ele consegue compilar, porém é lançado uma exceção informando que o método main não foi encontrado na class MyProgram.
+Quando mudamos o nome do método de 'main' para 'start', ele consegue compilar, porém é lançado uma exceção informando que o método main não foi encontrado na class BM_exercicio02.
 
 QUESTÃO 6
 
